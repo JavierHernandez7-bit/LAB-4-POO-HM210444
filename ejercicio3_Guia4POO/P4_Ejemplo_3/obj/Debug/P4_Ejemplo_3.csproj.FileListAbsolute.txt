@@ -1,0 +1,40 @@
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_3\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.exe.config
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_3\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.exe
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_3\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.pdb
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.Form1.resources
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.Properties.Resources.resources
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.exe
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.pdb
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_4\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.exe.config
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_4\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.exe
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_4\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.pdb
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_4\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_4\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.Form1.resources
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_4\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.Properties.Resources.resources
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_4\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_4\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_4\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.exe
+C:\Users\bryan\Desktop\POO 4L\P4_Ejemplo_4\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.pdb
+C:\Users\bryan\Desktop\POO 4L\P4_Ejercicio_3\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.exe.config
+C:\Users\bryan\Desktop\POO 4L\P4_Ejercicio_3\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.exe
+C:\Users\bryan\Desktop\POO 4L\P4_Ejercicio_3\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.pdb
+C:\Users\bryan\Desktop\POO 4L\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\POO 4L\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.Form1.resources
+C:\Users\bryan\Desktop\POO 4L\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.Properties.Resources.resources
+C:\Users\bryan\Desktop\POO 4L\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\POO 4L\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\POO 4L\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.exe
+C:\Users\bryan\Desktop\POO 4L\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.pdb
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\P4_Ejercicio_3\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.exe.config
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\P4_Ejercicio_3\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.exe
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\P4_Ejercicio_3\P4_Ejemplo_3\bin\Debug\P4_Ejemplo_3.pdb
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csproj.AssemblyReference.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.Form1.resources
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.Properties.Resources.resources
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csproj.GenerateResource.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.exe
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\P4_Ejercicio_3\P4_Ejemplo_3\obj\Debug\P4_Ejemplo_3.pdb

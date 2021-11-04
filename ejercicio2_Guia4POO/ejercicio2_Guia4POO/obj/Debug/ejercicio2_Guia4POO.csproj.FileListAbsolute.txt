@@ -1,0 +1,14 @@
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\bin\Debug\ejercicio2_Guia4POO.exe.config
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\bin\Debug\ejercicio2_Guia4POO.exe
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\bin\Debug\ejercicio2_Guia4POO.pdb
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.csproj.AssemblyReference.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.Form1.resources
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.Properties.Resources.resources
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.csproj.GenerateResource.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.exe
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.pdb
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.Registro.resources
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.rDocente.resources
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.rEstudiante.resources
+D:\REPOSITORIOS VS\LAB POO\LAB 4 POO\ejercicio2_Guia4POO\ejercicio2_Guia4POO\obj\Debug\ejercicio2_Guia4POO.Menú.resources
